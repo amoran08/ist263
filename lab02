@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang=”en”>
+    <head>
+        <meta charset = "utf-8">
+        <h1>Anthony Moran's Biography</h1>
+    </head>
+    <body>
+        <p>
+            My name is Anthony Moran. I am a <strong>Information</strong>Management & Technology major with a concentration in Data Analytics and Project Management, and I also have a minor in Psychology. I'm interested in exploring sports statistics or urban planning. I am an honors student and a recipient of the 1870 scholarship at Syracuse. I had an internship at the New York City Department of Housing Preservation & Development this summer, and I have experience working at a law office a few summers ago as well. At Syracuse, I am a Residential Advisor, which has given me ample experience being a leader. I like soccer and music. 
+        </p>
+
+        <h2>Personal Info</h2>
+
+        <p>
+            I am bilingual as my family is Ecuadorian, and I am from Queens, New York.
+                <br>
+            &copy; 2020
+        </p>
+
+        <ul> 
+        <li>Canva</li>
+        <li>Spanish</li>
+        </ul>
+    </body>
+</html>
